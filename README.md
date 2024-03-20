@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there, everyone! This is Danielle! 👋
+
+I’m a developer with a passion for expressive type systems and a drive to experiment with new technologies. I’m also a dorky nerd girl who likes fighting games. 🪀🧸
+
+- 🔭 I’m currently focused on smaller personal projects, such as [livemacros.vim](https://github.com/00dani/livemacros.vim) and [my various dotfiles repos](https://github.com/00dani/dot-dots).
+- 🤔 Professionally, I’m a full-stack web developer, but I'm currently looking for work.
+- ⚡ When I’m not programming, I like to make [Let’s Play videos](https://www.youtube.com/channel/UCj3NnmWWeWIv4qs0J-HhD5w).
 
 <!--
 **00dani/00dani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
